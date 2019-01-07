@@ -40,22 +40,7 @@ $(document).ready(function () {
     console.log(city);
     console.log(tTime);
     console.log(freq);
-    // it all works so far my dude
-    // var row = $("<tr>");
-    // var dataName = $("<td>").text(name); //new <td> for every entry(4)
-    // var dataCity = $("<td>").text(city);
-    // var datatTime = $("<td>").text(tTime); ///BIG OOPS THIS GOES ON CHILD LISTENER >>BLAME DAN
-    // var dataFreq = $("<td>").text(freq);
-
-    // row.append(dataName, dataCity,dataFreq, datatTime);
-    // $("#trainTable").append(row);
-
-
-
-
-
-
-
+    
 
   });
 

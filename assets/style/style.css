@@ -13,17 +13,13 @@ h1, h3, p{
     color: black;
 
 }
-form{
-    background: white;
-    opacity: .9;
-}
+
 label{
     font-family: 'Source Code Pro', monospace;
     color: black;
 
 }
 h4{
-    color: white;
     size: 25px;
     font-weight: 400;
     font-family: 'Source Code Pro', monospace;
